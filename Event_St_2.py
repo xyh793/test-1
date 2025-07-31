@@ -5,7 +5,7 @@ from datetime import datetime
 
 # ================== 配置区 ==================
 DATA_FILE = "party_activity.csv"
-VIEWER_PASSWORD = "123456"  # 查看和管理数据的密码（建议后续用 st.secrets）
+VIEWER_PASSWORD = "666666"  # 查看和管理数据的密码（建议后续用 st.secrets）
 
 # ================== 数据读写函数（防乱码）==================
 def load_data():
